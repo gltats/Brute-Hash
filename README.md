@@ -21,6 +21,6 @@ Python 3.x
             - Wait for the script to finish running. If a matching image file is found, the script will print its file path to the console.  
 
 ## Note
-This script uses the SHA256 hash function to compare the hashes of the image files.
-The script only searches for image files with the .tif extension.
-If multiple image files have the same hash as the target image, the script will print the file path of the first matching image file it finds.
+This script uses the SHA256 hash function to compare the hashes of the image files.  
+The script only searches for image files with the .tif extension.  
+If multiple image files have the same hash as the target image, the script will print the file path of the first matching image file it finds.  
